@@ -6,7 +6,7 @@ This is my very first AR project so far 🎉. It is really fun to play around wi
 <img src="https://github.com/dscyrescotti/TinyToyTank/blob/main/Assets/Demo.gif?raw=true" alt="Demo"  width="40%"/>
 
 ## Running project
-> This project is created using Xcode 13.1. Make sure your Xcode version is at least 13.1. And you may also need the real device to run project.
+> This project was created using Xcode 13.1. Make sure your Xcode version is at least 13.1. And you may also need the real device to run project.
 
 First, you need to download the project. You can use terminal commands to download it.
 ```
